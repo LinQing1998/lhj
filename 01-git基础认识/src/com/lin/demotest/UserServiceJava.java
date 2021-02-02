@@ -8,4 +8,7 @@ public interface UserServiceJava {
 	
 	//添加xxx
 	void xxx();
+	
+	//添加一个aaa
+	void aaa();
 }
