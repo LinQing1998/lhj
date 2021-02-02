@@ -11,4 +11,7 @@ public interface UserServiceJava {
 	
 	//添加一个aaa
 	void aaa();
+	
+	//添加一个bbb
+		void bbb();
 }
