@@ -5,4 +5,7 @@ public interface UserServiceJava {
 	void addUser();
 	//又添加了一个删除方法
 	void delete();
+	
+	//添加xxx
+	void xxx();
 }
