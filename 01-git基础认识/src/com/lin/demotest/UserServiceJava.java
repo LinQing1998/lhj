@@ -5,6 +5,5 @@ public interface UserServiceJava {
 	void addUser();
 	
 	
-	//添加了一个adduser2方法
-		void addUser2();
+	
 }
